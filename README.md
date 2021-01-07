@@ -1,5 +1,5 @@
 # Image-Classification-using-keras
-Classifying images with Keras using resnet50 and investigating how the classifier works using heat maps. The code is also used classify objects in a video ( output file included)
+Classifying images with Keras using resnet50 and investigating how the classifier works using heat maps. The code is also tested on a video ( output file included)
 
 Heat maps can be used to visually detect bias in the data. 
 The quality of a model's predictions depends heavily on the data on which it was trained. If the data is biased, that will reflect in the predictions.
